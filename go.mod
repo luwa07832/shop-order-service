@@ -1,4 +1,4 @@
-module github.com/luwa07832/feature-flag-service
+module github.com/luwa07832/shop-order-service
 
 go 1.26.0
 
